@@ -1,0 +1,8 @@
+name: Parrotride
+version: '${project.version}'
+main: dolozimm.parrotride.Parrotride
+api-version: '1.21'
+commands:
+  parrot:
+    description: Ride a parrot!
+    usage: /parrot
