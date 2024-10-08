@@ -8,8 +8,8 @@ Ever wanted to fly around on a parrot? Of course, you did! Well, now you can. Th
 
 ## ▶️ Usage
 
-1. Download the plugin `.jar` from [releases](https://github.com/parrotRide/releases).
-2. Drop the `.jar` into your `/plugins/` server folder.
-3. Restart your server (or use `/reload`, but you didn't hear that from me 💀).
-4. Fly high with `/parrot`.
+1. Download the plugin `.jar` from [releases](https://github.com/parrotRide/releases)
+2. Drop the `.jar` into your `/plugins/` server folder
+3. Restart your server (or use `/reload`, but you didn't hear that from me 💀)
+4. Fly high with `/parrot`
 5. Press shift to disembark and set your trusty parrot free
