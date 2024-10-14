@@ -1,6 +1,6 @@
 # 🦜 ParrotRide Plugin
 
-Ever wanted to fly around on a parrot? Of course, you did! Well, now you can. This **ParrotRide** simple plugin for **Minecraft 1.21** lets you take control of a parrot and explore the skies with your trusty feathered percy!
+This **ParrotRide** simple plugin for **Minecraft 1.21** lets you take control of a parrot and explore the skies with your trusty feathered percy
 
 > **Note:** This is for **Paper/Bukkit** servers. If you're not sure what those are, you probably shouldn't be here 🤡
 
@@ -12,4 +12,4 @@ Ever wanted to fly around on a parrot? Of course, you did! Well, now you can. Th
 2. Drop the `.jar` into your `/plugins/` server folder
 3. Restart your server (or use `/reload`, but you didn't hear that from me 💀)
 4. Fly high with `/parrot`
-5. Press shift to disembark and set your trusty parrot free
+5. Press shift to disembark and set your parrot free
